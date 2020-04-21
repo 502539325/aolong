@@ -1,2 +1,2 @@
 # aolong
-IOS App 描述信息
+This is the description information of an ios application
